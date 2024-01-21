@@ -10,3 +10,9 @@
 [submodule "data/historical-reports-2col"]
 	path = data/historical-reports-2col
 	url = git@github.com:JKamlah/historical-reports-2col-ocr-model.git
+[submodule "data/german-print"]
+	path = data/german-print
+	url = git@github.com:JKamlah/german-print-ocr-model.git
+[submodule "data/ubma-segmentation"]
+	path = data/ubma-segmentation
+	url = git@github.com:JKamlah/ubma-segmentation-ocr-model.git
