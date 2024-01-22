@@ -1,4 +1,4 @@
-# OCR Models Collection
+# OCR Model Catalogue
 
 Welcome to our repository, where we have compiled a diverse range of Layout Analysis (LA) and Optical Character Recognition (OCR) models. 
 This collection is aimed at providing researchers, developers, and hobbyists with easy access to a variety of OCR models.
@@ -25,7 +25,7 @@ The structure of the repo is the following:
    └── OCR-Model as submodule   
  ```       
 
-Here's our OCR Model collection:
+Here's our OCR Model Catalogue:
 
 - [german_print](https://github.com/JKamlah/german-print-ocr-model/)
 - [german_newspapers](https://github.com/JKamlah/german_newspapers-ocr-model/)
