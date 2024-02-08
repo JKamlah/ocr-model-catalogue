@@ -27,10 +27,8 @@ The structure of the repo is the following:
 
 Here's our OCR Model Catalogue:
 
-- [german_print](https://github.com/JKamlah/german-print-ocr-model/)
-- [german_newspapers](https://github.com/JKamlah/german_newspapers-ocr-model/)
-- [ubma_segementation](https://github.com/JKamlah/ubma-segmentation-ocr-model/)
-- [historical-reports-2col](https://github.com/JKamlah/historical-reports-2col-ocr-model/)
+<!-- Models !-->
+<!-- /Models !-->
 
 
 ## License
