@@ -1,9 +1,3 @@
-[submodule "data/historical-reports-2col-ocr-model"]
-	path = data/historical-reports-2col-ocr-model
-	url = git@github.com:JKamlah/historical-reports-2col-ocr-model.git
-[submodule "data/german-newspapers-ocr-model"]
-	path = data/german-newspapers-ocr-model
-	url = git@github.com:JKamlah/german-newspapers-ocr-model.git
 [submodule "data/german-newspapers"]
 	path = data/german-newspapers
 	url = git@github.com:JKamlah/german-newspapers-ocr-model.git
